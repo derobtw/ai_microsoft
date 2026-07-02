@@ -1,0 +1,8 @@
+foundry-local-sdk-winml
+openai
+flask
+pdfplumber
+pymupdf
+pillow
+pytesseract
+python-docx
