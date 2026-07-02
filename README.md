@@ -1,5 +1,9 @@
 # Local RAG Assistant
 
+
+https://derobtw.github.io/ai_microsoft/
+
+
 A local Retrieval-Augmented Generation assistant built with Microsoft Foundry Local, Flask, SQLite, and a custom HTML/CSS/JavaScript interface.
 
 The app lets a user upload PDF, DOCX, or TXT files, indexes them into a local SQLite database, retrieves relevant chunks, and answers questions using only the retrieved document context.
