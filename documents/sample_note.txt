@@ -1,0 +1,7 @@
+Foundry Local runs AI models directly on your device without depending on cloud services.
+
+RAG stands for Retrieval-Augmented Generation. It retrieves relevant documents before generating an answer.
+
+SQLite is a lightweight local database that stores data in a single file.
+
+Prompt engineering helps guide the model to answer using only the provided context.
